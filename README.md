@@ -101,15 +101,6 @@ Django REST Framework + React application for job postings, candidate applicatio
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abuquatada&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuquatada&layout=compact&hide_border=true" height="165" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p>
