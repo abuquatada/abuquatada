@@ -59,7 +59,7 @@
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jest" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -104,8 +104,8 @@ Django REST Framework + React application for job postings, candidate applicatio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abuquatada&show_icons=true&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuquatada&layout=compact&hide_border=true" height="165" />
 </p>
 
 ---
@@ -113,7 +113,7 @@ Django REST Framework + React application for job postings, candidate applicatio
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/abu-quatada">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:abuquatada84@gmail.com">
