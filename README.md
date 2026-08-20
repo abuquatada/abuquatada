@@ -1,79 +1,122 @@
-# Hi, I'm Abu Quatada
+# 👋 Hi, I'm Abu Quatada
 
-**Full Stack Developer building AI-powered applications.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+GenAI+Application+Builder;Python+%7C+TypeScript+%7C+Next.js+%7C+Django;Building+Practical+AI-Powered+Products" alt="Typing SVG" />
+</p>
 
-I work primarily with **Python, TypeScript, Django, Next.js, React, PostgreSQL, and LLM APIs**, with a focus on building practical, scalable web applications and AI-powered developer products.
+<p align="center">
+  Full Stack Developer building AI-powered applications with Python, TypeScript, Django, Next.js, React, PostgreSQL, and LLMs.
+</p>
 
-## What I Build
+---
 
-* Full-stack web applications and REST APIs
-* AI-powered applications using LLMs
-* Resume and job-description analysis systems
-* AI interview and evaluation workflows
-* Authentication, authorization, and secure API architectures
-* Database-driven applications with PostgreSQL
-* Automation and data-driven applications
+## 🚀 About Me
 
-## Featured Project
+* 💻 Full Stack Developer focused on backend and web application engineering
+* 🤖 Building practical AI/LLM-powered applications
+* 🐍 Strong experience with Python and Django REST Framework
+* ⚡ Building modern applications with TypeScript, Next.js, and React
+* 🗄️ Working with PostgreSQL and relational database systems
+* 🧪 Interested in testing, API design, authentication, and scalable application architecture
+* 📚 Currently deepening my knowledge of AI, data analysis, and machine learning
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,sql" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,html,css" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,nodejs" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### AI / Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
+
+**AI / LLM:** Google Gemini · Groq · LLM Integration · Structured Outputs
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jest" />
+</p>
+
+---
+
+## 🔥 Featured Project
 
 ### Console.Hired — AI Resume Analyzer & Mock Interview Platform
 
 An AI-powered career platform that analyzes resumes against job descriptions, identifies skill and experience gaps, and provides actionable feedback.
 
-**Built with:** Next.js · TypeScript · PostgreSQL · Drizzle ORM · Gemini · Groq · Zod
+**Tech:** Next.js · TypeScript · PostgreSQL · Drizzle ORM · Gemini · Groq · Zod
 
-Key engineering work includes:
+### Key Engineering Work
 
-* Versioned APIs for resume parsing, job-description analysis, interview generation, answer evaluation, authentication, and dashboards
-* Structured LLM outputs using Zod schemas
-* PostgreSQL with Drizzle ORM and JSONB-based AI results
-* SHA-256 document caching and indexed database queries
-* Google OAuth and credential-based authentication
-* Automated testing with Jest and Testing Library
-* AI mock interviews with technical and behavioral evaluation
-* Speech-to-text, text-to-speech, and MediaPipe-based webcam analysis
-
-## Technical Stack
-
-**Languages**
-
-Python · TypeScript · JavaScript · SQL
-
-**Backend**
-
-Django · Django REST Framework · REST APIs · JWT · Authentication · API Design
-
-**Frontend**
-
-Next.js · React · React Native · HTML5 · CSS3
-
-**AI / Data**
-
-LLM Integration · Google Gemini · Groq · Pandas · NumPy · Scikit-learn
-
-**Databases**
-
-PostgreSQL · MySQL · MS SQL
-
-**Tools**
-
-Git · GitHub · Postman · VS Code · Jest · Testing Library
-
-## Other Projects
-
-**Mobile E-commerce App**
-REST API and backend system for products, users, orders, authentication, payments, and transactional email workflows.
-
-**Invoice Management System**
-Django REST + PostgreSQL application for invoice management, billing workflows, PDF generation, and automated email delivery.
-
-**Recruitment Portal**
-Django REST + React application covering job postings, candidate applications, authentication, validation, and recruitment workflows.
-
-## Currently Exploring
-
-AI application engineering, LLM-powered systems, data analysis, and practical machine learning applications.
+* Built versioned APIs for resume parsing, job-description analysis, interview generation, answer evaluation, authentication, and dashboard workflows
+* Integrated Google Gemini and Groq with structured Zod schemas for reliable AI outputs
+* Designed PostgreSQL data models using Drizzle ORM and JSONB for AI-generated results
+* Implemented SHA-256 document caching and indexed database queries
+* Built Google OAuth and credential-based authentication
+* Added Jest and Testing Library automated tests
+* Developed AI mock interviews covering technical and behavioral questions
+* Implemented speech-to-text, text-to-speech, and MediaPipe-based webcam analysis
 
 ---
 
-📫 **Contact:** [abuquatada84@gmail.com](mailto:abuquatada84@gmail.com)
+## 📌 Other Projects
+
+### 🛒 Mobile E-commerce App
+
+Django REST Framework + React Native application covering products, users, orders, authentication, payment workflows, and transactional email.
+
+### 🧾 Invoice Management System
+
+Django REST Framework + React + PostgreSQL application for invoice management, billing workflows, PDF invoice generation, and automated email delivery.
+
+### 👥 Recruitment Portal
+
+Django REST Framework + React application for job postings, candidate applications, authentication, validation, and recruitment workflows.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:abuquatada84@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
